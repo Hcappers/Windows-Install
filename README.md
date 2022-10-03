@@ -20,10 +20,10 @@
 
 ## Installation
 ### Install Chocolatey
-- Chocolatey is a package manager that can be ran on windows. 
-- To install run `Choco_Install.ps1`
+- Chocolatey is a package manager that can be used on windows. 
+- To install Chocolatey run `Choco_Install.ps1`
 
-- Next is to install all packages by running `Install.ps1`
+- Next: Install all packages by running `Install.ps1`
 
 ## List of packages
 | Packages                                           | Description |
